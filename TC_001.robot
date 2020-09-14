@@ -1,6 +1,6 @@
 *** Settings ***
 Library  SeleniumLibrary
-Resource  ../Resources/Resources1.robot
+Resource  ./Resources/Resources1.robot
 
 *** Variables ***
 ${U}  http://www.thetestingworld.com/testings
