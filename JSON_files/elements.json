@@ -1,0 +1,20 @@
+{
+  "Registration":
+       {
+         "Username":"fld_username",
+	     "Email":"xpath://input[@name='fld_email']",
+	     "Passward":"xpath://input[@name='fld_password']",
+	     "Cpassward":"xpath://input[@name='fld_cpassword']",
+	     "DOB":"xpath://input[@name='dob']",
+	     "Phone":"xpath://input[@name='phone']",
+	     "Address":"xpath://input[@name='address']",
+	     "City":["Mumbai","Bangalore"]
+       },
+  "Login":
+      {
+        "Username": "",
+        "Passward": ""
+
+      }
+
+}
